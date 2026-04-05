@@ -24,7 +24,7 @@ body{
     border-radius: 10px;
     font-family: 'Poppins', sans-serif;
 }
-#home:hover{
+#home{
     background-color: #6b6e75;
 }
 .nav ul{
